@@ -4,4 +4,12 @@
 
 .logo{
     width: 80px;
+    padding: 6pt;
+}
+
+main{
+    background-image: url(../images/pexels-the-duluwa-154796858-26811613.jpg);
+    background-size: cover;
+    max-width: 100%;
+    height: 400pt;
 }
